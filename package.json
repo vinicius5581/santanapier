@@ -1,6 +1,7 @@
 {
   "name": "santanapier",
   "version": "0.1.0",
+  "homepage": "https://vinicius5581.github.io/santanapier",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",

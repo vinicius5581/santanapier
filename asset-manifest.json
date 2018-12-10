@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.7ecf4af6.chunk.css",
-  "main.js": "/static/js/main.a689ac1a.chunk.js",
-  "main.js.map": "/static/js/main.a689ac1a.chunk.js.map",
-  "static/js/1.f68dcc1a.chunk.js": "/static/js/1.f68dcc1a.chunk.js",
-  "static/js/1.f68dcc1a.chunk.js.map": "/static/js/1.f68dcc1a.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.7ecf4af6.chunk.css.map": "/static/css/main.7ecf4af6.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.7f8bfb114de83199d302683966c92f36.js": "/precache-manifest.7f8bfb114de83199d302683966c92f36.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/santanapier/static/css/main.7ecf4af6.chunk.css",
+  "main.js": "/santanapier/static/js/main.fab263d9.chunk.js",
+  "main.js.map": "/santanapier/static/js/main.fab263d9.chunk.js.map",
+  "static/js/1.f68dcc1a.chunk.js": "/santanapier/static/js/1.f68dcc1a.chunk.js",
+  "static/js/1.f68dcc1a.chunk.js.map": "/santanapier/static/js/1.f68dcc1a.chunk.js.map",
+  "runtime~main.js": "/santanapier/static/js/runtime~main.587e0f01.js",
+  "runtime~main.js.map": "/santanapier/static/js/runtime~main.587e0f01.js.map",
+  "static/css/main.7ecf4af6.chunk.css.map": "/santanapier/static/css/main.7ecf4af6.chunk.css.map",
+  "index.html": "/santanapier/index.html",
+  "precache-manifest.1b61ca0fa7fc58eec0d07f122c614276.js": "/santanapier/precache-manifest.1b61ca0fa7fc58eec0d07f122c614276.js",
+  "service-worker.js": "/santanapier/service-worker.js"
 }

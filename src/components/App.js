@@ -13,6 +13,7 @@ class App extends Component {
             <h1>Santana Pier</h1>
             <Route path="/about/" component={About} />
             <Route path="/contact/" component={Contact} />
+            <Route path="/social/" component={Social} />
           </header>          
         </div>        
       </Router>

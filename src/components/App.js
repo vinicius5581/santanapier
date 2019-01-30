@@ -12,7 +12,7 @@ class App extends Component {
         <div className="App">
           <header className="App-header">
             <h1>Santana Pier</h1>
-            <p>Amazon seller</p>
+            <p><a target="_blank" href="https://www.amazon.com/s?marketplaceID=ATVPDKIKX0DER&me=A1HGM960YO2A4C&merchant=A1HGM960YO2A4C">Amazon Store</a></p>
             <Route path="/about/" component={About} />
             <Route path="/contact/" component={Contact} />
             <Route path="/social/" component={Social} />

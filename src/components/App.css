@@ -18,6 +18,13 @@
   line-height: 1px;
 }
 
+.App-header > p {}
+
+.App-header > p > a {
+  text-decoration: none;
+  color: white;
+}
+
 
 .App-footer {
   border-top: 1px solid white;

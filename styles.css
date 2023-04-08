@@ -5,6 +5,7 @@ html {
 
 header {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 10vh;
@@ -12,6 +13,7 @@ header {
 
 main {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 80vh;
@@ -19,6 +21,7 @@ main {
 
 footer {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 10vh;

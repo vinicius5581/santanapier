@@ -19,7 +19,7 @@ class App extends Component {
           </header>       
           <footer className="App-footer">
             <p>501 Delancey St. #110 - San Francisco - CA - 94107</p>
-            <p>(415) 312-5802</p>
+            <p>(415) . 312-5802</p>
           </footer>   
         </div>        
       </Router>

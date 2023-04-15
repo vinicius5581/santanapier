@@ -673,6 +673,10 @@
    text-rendering: optimizeLegibility;
    text-align: center;
  }
+
+ .header1 {
+    font-size: 3em;
+ }
  
  .container {
    position: absolute;
